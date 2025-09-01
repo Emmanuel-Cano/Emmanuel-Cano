@@ -23,10 +23,4 @@
 
 ---
 
-
-### 🐍 El rastro de mi código
-![Snake animation](https://github.com/TU-USUARIO/TU-USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=70&section=footer&text=⚡%20Dark%20Coder%20Mode%20⚡&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=70&section=footer&text=%20Starting%20out%20as%20a%20Developer&fontColor=ffffff)
