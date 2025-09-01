@@ -1,7 +1,7 @@
 <!-- Banner de bienvenida -->
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=150&section=header&text=Welcome%20to%20my%20World%20👾&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
-# ⚡ ¿Qué rollo? Soy [Tu Nombre]  
+# ⚡ ¿Qué rollo? Soy Emmanuel Cano  
 
 > *"Code hard, dream dark, stay legendary."*  
 
