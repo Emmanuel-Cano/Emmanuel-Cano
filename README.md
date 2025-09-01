@@ -7,19 +7,20 @@
 
 ---
 
-### 🕶️ Sobre mí
-- 🎓 Estudiante de **Ingeniería en Desarrollo de Software** en la **UTEZ**  
-- 🖤 Fan del estilo **clean code**  
-- 🔥 Apasionado por **Lo estético y funcional**  
-- ⚡ Siempre aprendiendo algo nuevo en el mundo del código  
+### Sobre mí
+-  Estudiante de **Ingeniería en Desarrollo de Software** en la **UTEZ**  
+-  Fan del estilo **clean code**  
+-  Apasionado por **Lo estético y funcional**  
+-  Siempre aprendiendo algo nuevo en el mundo del código  
 
 ---
 
-### 🛠️ Mis armas (Tech Stack)
+### (Tech Stack)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=red)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
