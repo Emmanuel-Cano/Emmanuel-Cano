@@ -1,70 +1,45 @@
-<br clear="both">
+<!-- Banner de bienvenida -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=150&section=header&text=Welcome%20to%20my%20World%20👾&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
-<h1 align="center">Hey 👋What's Up?</h1>
+# ⚡ ¿Qué rollo? Soy [Tu Nombre]  
 
-###
+> *"Code hard, dream dark, stay legendary."*  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="60" alt="minitab logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="60" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="60" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="60" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/markdown/000000" height="60" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="60" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 🕶️ Sobre mí
+- 🎓 Estudiante de **[Tu carrera]** en **[Tu universidad]**  
+- 🖤 Fan del estilo **cyberpunk y dark coding**  
+- 🔥 Apasionado por **[ej. desarrollo web, videojuegos, IA, etc.]**  
+- ⚡ Siempre aprendiendo algo nuevo en el mundo del código  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+### 🛠️ Mis armas (Tech Stack)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Emmanuel-Cano&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Emmanuel-Cano&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+### 📊 Mis estadísticas en la oscuridad
+![Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&bg_color=000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&bg_color=000000&title_color=8B0000&text_color=ffffff)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emmanuel-Cano/Emmanuel-Cano/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emmanuel-Cano/Emmanuel-Cano/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Emmanuel-Cano/Emmanuel-Cano/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 🐍 El rastro de mi código
+![Snake animation](https://github.com/TU-USUARIO/TU-USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 📫 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/TU-LINKEDIN)  
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:TU-CORREO)  
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=70&section=footer&text=⚡%20Dark%20Coder%20Mode%20⚡&fontColor=ffffff)
