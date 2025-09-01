@@ -21,6 +21,11 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange)
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=red)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SolidEdge](https://img.shields.io/badge/SolidEdge-000000?style=for-the-badge&logo=siemens&logoColor=cyan)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-000000?style=for-the-badge&logoColor=33FF99)
+![Justime](https://img.shields.io/badge/Justime-000000?style=for-the-badge&logoColor=FF33CC)
 
 ---
 
